@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://github.com/xvsmoreira.png" width="150" style="border-radius: 50%; border: 4px solid #7aa2f7;" alt="Foto de Perfil do Vitor" />
-  <h1>Vitor Moreira</h1>
-  <h3>Desenvolvedor Full Stack</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=70&lines=VITOR+MOREIRA;FULL+STACK+DEVELOPER;PYTHON+%7C+JS+%7C+PHP+%7C+REACT" alt="Typing SVG" />
   <p><i>"Pra frente, sempre. A única direção que importa."</i></p>
 </div>
 
