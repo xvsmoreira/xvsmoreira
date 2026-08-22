@@ -57,7 +57,7 @@
   </a>
 </div>
 
-### 🐍 Contribuições
+### 🐍 Gráfico Dinâmico de Contribuições
 
 <div align="center">
   <picture>
