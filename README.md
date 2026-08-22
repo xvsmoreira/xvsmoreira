@@ -68,14 +68,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/xvsmoreira">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xvsmoreira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
 <!-- CONTRIBUTIONS SNAKE -->
 ### 🐍 Snake Eating Contributions
 
