@@ -53,8 +53,8 @@
 
 <div align="center">
   <a href="https://github.com/xvsmoreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xvsmoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvsmoreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xvsmoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xvsmoreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </div>
 
@@ -62,15 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/xvsmoreira">
-    <img src="https://streak-stats.demolab.com/?user=xvsmoreira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/xvsmoreira">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xvsmoreira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xvsmoreira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
