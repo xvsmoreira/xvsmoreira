@@ -62,6 +62,14 @@
 
 <div align="center">
   <a href="https://github.com/xvsmoreira">
+    <img src="https://streak-stats.demolab.com/?user=xvsmoreira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/xvsmoreira">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=xvsmoreira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
