@@ -44,27 +44,18 @@
 
 <div align="center">
   <a href="https://github.com/xvsmoreira">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=xvsmoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xvsmoreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens Mais Usadas" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/xvsmoreira">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=xvsmoreira&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/xvsmoreira">
-    <img src="https://streak-stats.demolab.com/?user=xvsmoreira&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de Commits" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/xvsmoreira">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xvsmoreira&theme=tokyonight&hide_border=true&locale=pt-BR" alt="Sequência de Commits" />
-  </a>
-</div>
-
-<br>
 
 ### 🐍 Contribuições
 
